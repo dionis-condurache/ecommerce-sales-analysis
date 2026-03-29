@@ -1,3 +1,7 @@
+-- Author: Dionis Condurache
+-- Project: E-commerce Sales Analysis
+-- Tool: Google BigQuery (SQL)
+
 -- ============================================
 -- E-COMMERCE SALES ANALYSIS (OLIST DATASET)
 -- ============================================
